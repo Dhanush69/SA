@@ -1,3 +1,6 @@
 APPS
 
 cozy run
+
+rel
+versions
